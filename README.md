@@ -28,7 +28,13 @@ I enjoy building clean, functional solutions and continuously learning new techn
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger"/>
 </div>
 
 ### Frontend
@@ -40,9 +46,13 @@ I enjoy building clean, functional solutions and continuously learning new techn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
 </div>
 
-### Database
+### Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server"/>
 </div>
 
 ---
@@ -61,20 +71,6 @@ I enjoy building clean, functional solutions and continuously learning new techn
 
 ---
 
-## 🚀 Projects
-
-### 📦 Inventory Management System
-- Java + MySQL
-- Product entries, exits and stock control
-- CRUD operations and validations
-
-### 🎟️ UniEventos
-- Spring Boot + MongoDB
-- Event ticket sales platform
-- User authentication and role management
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,10 +81,3 @@ I enjoy building clean, functional solutions and continuously learning new techn
   <img src="https://github-readme-stats.vercel.app/api?username=DarkIsCool10&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkIsCool10&layout=compact&theme=dracula" height="150"/>
 </div>
-
----
-
-## 📫 Contact Me
-
-- 💼 LinkedIn: https://linkedin.com/in/tu-linkedin
-- 📧 Email: tu-correo@gmail.com
