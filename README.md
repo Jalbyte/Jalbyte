@@ -1,43 +1,94 @@
 <div align="center">
-  <img height="200" src="https://38.media.tumblr.com/034a71857ba3c0c7913835551d47b0de/tumblr_njtau3F84P1rl1jado1_500.gif"  />
+  <img height="200" src="https://38.media.tumblr.com/034a71857ba3c0c7913835551d47b0de/tumblr_njtau3F84P1rl1jado1_500.gif" />
 </div>
 
-###
-
-<div aling="center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%3EHi%2C+my+name+is+Juan+Camilo+Albaran;and+im+a+junior+developer" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=%3E+Hi%2C+my+name+is+Juan+Camilo+Albaran;Junior+Software+Developer;Backend+and+Web+Development+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-###
+---
 
-## 🛠️ My Skills
+## 👨‍💻 About Me
+
+Junior Software Developer with a strong interest in **backend development** and **web applications**.  
+I enjoy building clean, functional solutions and continuously learning new technologies.
+
+- 🌱 Currently learning: **React, Spring Boot**
+- 💡 Interested in: **APIs, Databases, Web Development**
+- 🎯 Goal: **Become a Full Stack Developer**
+- 🧠 Mindset: **Always learning and improving**
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+</div>
+
+### Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+</div>
+
+### Database
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
+</div>
+
+---
+
+## 🧰 Tools & Environment
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 Projects
 
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+### 📦 Inventory Management System
+- Java + MySQL
+- Product entries, exits and stock control
+- CRUD operations and validations
+
+### 🎟️ UniEventos
+- Spring Boot + MongoDB
+- Event ticket sales platform
+- User authentication and role management
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkIsCool10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkIsCool10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkIsCool10&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkIsCool10&layout=compact&theme=dracula" height="150"/>
 </div>
 
-###
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn: https://linkedin.com/in/tu-linkedin
+- 📧 Email: tu-correo@gmail.com
